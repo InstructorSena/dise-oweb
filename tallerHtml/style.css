@@ -1,0 +1,18 @@
+.clase1 {
+    font-size: 80px;
+}
+
+.clase2 {
+    font-size: 100px;
+}
+
+#id1 {
+    color: blue;
+}
+
+#pie {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 5px solid#999999;
+}
